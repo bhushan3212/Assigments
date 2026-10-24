@@ -5,4 +5,3 @@ if A % 400 == 0 or A % 4 == 0:
 else:
     print("Not a leap year")
 
-print(my na )
